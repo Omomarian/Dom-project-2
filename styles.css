@@ -1,0 +1,34 @@
+.body {
+  margin: 20px auto;
+  border: rgb(67, 52, 83);
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  padding: 4px;
+}
+.container {
+  text-align: center;
+  margin-top: 50px;
+  color: grey;
+  font: bolder;
+  box-shadow: 20ch;
+}
+#color-box {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  background-color: lightgray;
+  border: 2px solid #703b3b;
+  border-radius: 2rem;
+}
+#change-color-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: rgb(98, 51, 106);
+  font: bold;
+  color: hsl(0, 9%, 85%);
+  border-radius: 2rem;
+}
+.show {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
